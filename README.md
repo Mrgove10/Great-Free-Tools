@@ -50,7 +50,7 @@ On a tight budget but need great tools ?
 
 ## IDE
 
-- [Vicual Studio Community](https://visualstudio.microsoft.com/vs/)
+- [Visual Studio Community](https://visualstudio.microsoft.com/vs/)
 
 ### Managing
 
