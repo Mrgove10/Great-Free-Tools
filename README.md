@@ -53,7 +53,7 @@ On a tight budget but need great tools ?
 
 - [GitKraken](http://gitkraken.com/)
 
-### Note taking
+## Notes
 
 - [Simplenote](https://simplenote.com/)
 
