@@ -14,7 +14,7 @@ On a tight budget but need great tools ?
     - [Git](#git)
         - [Hosting](#hosting)
         - [Managing](#managing)
-        - [Note taking](#note-taking)
+    - [Notes](#notes)
     - [IDE](#ide)
     - [Text editors](#text-editors)
     - [Website creation](#website-creation)
@@ -52,6 +52,7 @@ On a tight budget but need great tools ?
 ### Managing
 
 - [GitKraken](http://gitkraken.com/)
+- [GitHub Desktop](https://desktop.github.com/)
 
 ## Notes
 
