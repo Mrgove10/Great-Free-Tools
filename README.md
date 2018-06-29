@@ -1,12 +1,13 @@
 # Free Great Tools
 On a tight budget but need great tools ?
 
-Feel free to update !
+**Feel free to update !**
 
 <!-- TOC -->
 
 - [Free Great Tools](#free-great-tools)
     - [Blogs](#blogs)
+    - [Communication](#communication)
     - [Design](#design)
     - [Documentation](#documentation)
     - [Game engines](#game-engines)
@@ -15,12 +16,17 @@ Feel free to update !
     - [IDE](#ide)
         - [Managing](#managing)
     - [Text editors](#text-editors)
+    - [Website creation](#website-creation)
 
 <!-- /TOC -->
 
 ## Blogs
 
 - [MicroBlog](http://micro.blog/)
+
+## Communication
+
+- [Discord](https://discordapp.com/ )
 
 ## Design
 
@@ -53,3 +59,7 @@ Feel free to update !
 ## Text editors
 
 - [Visual Studio Code](https://code.visualstudio.com/)
+
+## Website creation
+
+- [Mobirise](https://mobirise.com/fr/)
