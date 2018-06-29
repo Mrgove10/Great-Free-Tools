@@ -14,11 +14,12 @@ On a tight budget but need great tools ?
     - [Git](#git)
         - [Hosting](#hosting)
         - [Managing](#managing)
+        - [Note taking](#note-taking)
     - [IDE](#ide)
     - [Text editors](#text-editors)
     - [Website creation](#website-creation)
 
-<!-- /TOC -->a
+<!-- /TOC -->
 
 ## Blogs
 
@@ -52,6 +53,10 @@ On a tight budget but need great tools ?
 
 - [GitKraken](http://gitkraken.com/)
 
+### Note taking
+
+- [Simplenote](https://simplenote.com/)
+
 ## IDE
 
 - [Visual Studio Community](https://visualstudio.microsoft.com/vs/)
@@ -63,3 +68,4 @@ On a tight budget but need great tools ?
 ## Website creation
 
 - [Mobirise](https://mobirise.com/fr/)
+- [Wordpress](https://wordpress.org)
