@@ -1,7 +1,7 @@
 # Free Great Tools
 On a tight budget but need great tools ?
 
-Feel free to update ! 
+Feel free to update !
 
 <!-- TOC -->
 
@@ -9,8 +9,10 @@ Feel free to update !
     - [Blogs](#blogs)
     - [Design](#design)
     - [Documentation](#documentation)
+    - [Game engines](#game-engines)
     - [Git](#git)
         - [Hosting](#hosting)
+    - [IDE](#ide)
         - [Managing](#managing)
     - [Text editors](#text-editors)
 
@@ -18,18 +20,20 @@ Feel free to update !
 
 ## Blogs
 
-- [MicroBlog]( http://micro.blog/)
+- [MicroBlog](http://micro.blog/)
 
 ## Design
 
 - [Adobe XD](https://www.adobe.com/products/xd.html)
 - [Gravit Designer](https://www.designer.io)
 
-
 ## Documentation
 
 - [Slate](https://github.com/lord/slate)
 
+## Game engines
+
+- [Unity](http://unity3d.com/)
 
 ## Git
 
@@ -37,6 +41,10 @@ Feel free to update !
 
 - [GitHub](https://github.com/)
 - [GitLab](https://gitlab.com/)
+
+## IDE
+
+- [Vicual Studio Community](https://visualstudio.microsoft.com/vs/)
 
 ### Managing
 
