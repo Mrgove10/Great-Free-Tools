@@ -13,12 +13,12 @@ On a tight budget but need great tools ?
     - [Game engines](#game-engines)
     - [Git](#git)
         - [Hosting](#hosting)
-    - [IDE](#ide)
         - [Managing](#managing)
+    - [IDE](#ide)
     - [Text editors](#text-editors)
     - [Website creation](#website-creation)
 
-<!-- /TOC -->
+<!-- /TOC -->a
 
 ## Blogs
 
@@ -48,13 +48,13 @@ On a tight budget but need great tools ?
 - [GitHub](https://github.com/)
 - [GitLab](https://gitlab.com/)
 
-## IDE
-
-- [Visual Studio Community](https://visualstudio.microsoft.com/vs/)
-
 ### Managing
 
 - [GitKraken](http://gitkraken.com/)
+
+## IDE
+
+- [Visual Studio Community](https://visualstudio.microsoft.com/vs/)
 
 ## Text editors
 
