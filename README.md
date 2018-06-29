@@ -1,7 +1,24 @@
 # Free Great Tools
-On a tight budget but nedd great tools ?
+On a tight budget but need great tools ?
 
-Feel free to update
+Feel free to update ! 
+
+<!-- TOC -->
+
+- [Free Great Tools](#free-great-tools)
+    - [Blogs](#blogs)
+    - [Design](#design)
+    - [Documentation](#documentation)
+    - [Git](#git)
+        - [Hosting](#hosting)
+        - [Managing](#managing)
+    - [Text editors](#text-editors)
+
+<!-- /TOC -->
+
+## Blogs
+
+- [MicroBlog]( http://micro.blog/)
 
 ## Design
 
