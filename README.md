@@ -13,9 +13,10 @@ On a tight budget but need great tools ?
     - [Game engines](#game-engines)
     - [Git](#git)
         - [Hosting](#hosting)
+    - [IDE](#ide)
         - [Managing](#managing)
     - [Notes](#notes)
-    - [IDE](#ide)
+    - [Remote desktop](#remote-desktop)
     - [Text editors](#text-editors)
     - [Website creation](#website-creation)
 
@@ -49,6 +50,10 @@ On a tight budget but need great tools ?
 - [GitHub](https://github.com/)
 - [GitLab](https://gitlab.com/)
 
+## IDE
+
+- [Visual Studio Community](https://visualstudio.microsoft.com/vs/)
+
 ### Managing
 
 - [GitKraken](http://gitkraken.com/)
@@ -58,9 +63,9 @@ On a tight budget but need great tools ?
 
 - [Simplenote](https://simplenote.com/)
 
-## IDE
+## Remote desktop
 
-- [Visual Studio Community](https://visualstudio.microsoft.com/vs/)
+- [Ulterius](https://ulterius.io/)
 
 ## Text editors
 
@@ -68,5 +73,5 @@ On a tight budget but need great tools ?
 
 ## Website creation
 
-- [Mobirise](https://mobirise.com/fr/)
-- [Wordpress](https://wordpress.org)
+- [Mobirise](https://mobirise.com/)
+- [Wordpress](https://wordpress.org/)
